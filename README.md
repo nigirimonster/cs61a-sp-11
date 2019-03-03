@@ -10,5 +10,5 @@ This CS syllabus is what led me here: https://teachyourselfcs.com/
 - homework: http://wla.berkeley.edu/~cs61a/reader/nodate-hw.pdf
 
 <b>Reference resources:</b>
-- course website:http://wla.berkeley.edu/~cs61a/sp11/
+- course website: http://wla.berkeley.edu/~cs61a/sp11/
 - SICP problem solutions: http://community.schemewiki.org/?sicp-solutions
