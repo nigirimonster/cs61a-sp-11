@@ -1,7 +1,7 @@
 Created this to organize resources I'm using for the cs61a course from spring 2011 at UC Berkeley with professor Brian Harvey.
 <br><br>This course guide has been very valuable: https://github.com/fgalassi/cs61a-sp11
 <br>This CS syllabus is what led me here: https://teachyourselfcs.com/
-
+<br>
 <b>Course of study:</b>
 - install precompiled binary to run <i>UC Berkeley's Scheme</i>: http://wla.berkeley.edu/~scheme/ 
   <br>(mac OS download here: http://wla.berkeley.edu/~scheme/precompiled/OSX/STk-ucb1.3.6.dmg)
